@@ -1,4 +1,4 @@
-# Análisis de embudo de conversión y retención de usuarios (MercadoLibre, 2025)
+# MercadoLibre — Conversión y retención
 
 **Herramientas:** SQL
 **Periodo analizado:** 01/01/2025 – 31/08/2025
